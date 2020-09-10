@@ -16,7 +16,7 @@ namespace Modelering
             
             c1.name = "Toyota Corolla";
             c2.name = "Toyota Prius";
-            c3.name = "Volvo v60";
+            c3.name = "Volvo v60.";
 
             c1.speed = 42;
             c2.speed = 12;
