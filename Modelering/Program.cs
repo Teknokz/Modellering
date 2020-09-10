@@ -16,6 +16,9 @@ namespace Modelering
             c1.name = "Toyota Corolla";
             c2.name = "Toyota Prius";
 
+            c1.speed = 42;
+            c2.speed = 12;
+
 
             List<car> Toyota = new List<car>();
 
