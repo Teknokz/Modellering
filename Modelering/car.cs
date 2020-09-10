@@ -12,6 +12,8 @@ namespace Modelering
 
         public string name;
 
+        public float fuel;
+
 
     }
 }
